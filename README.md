@@ -37,6 +37,8 @@ A curated collection of awesome papers on diffusion models.
 
 * PROGRESSIVE DISTILLATION FOR FAST SAMPLING OF DIFFUSION MODELS, ICLR 2022 [[PDF](https://arxiv.org/pdf/2202.00512)]
 
+* High-Resolution Image Synthesis with Latent Diffusion Models, CVPR 2022 [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)]
+  
 * DENOISING DIFFUSION IMPLICIT MODELS, ICLR 2021 [[PDF](https://arxiv.org/pdf/2010.02502)]
   
 * Improved Denoising Diffusion Probabilistic Models, ICML 2021 [[PDF](https://proceedings.mlr.press/v139/nichol21a/nichol21a.pdf)]
