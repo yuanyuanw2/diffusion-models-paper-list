@@ -16,3 +16,16 @@ A curated collection of awesome papers on diffusion models.
 
 
 ## Continuous
+
+* Consistency Models, ICML 2023 [[PDF](https://arxiv.org/pdf/2303.01469)]
+
+* PROGRESSIVE DISTILLATION FOR FAST SAMPLING OF DIFFUSION MODELS, ICLR 2022 [[PDF](https://arxiv.org/pdf/2202.00512)]
+
+* DENOISING DIFFUSION IMPLICIT MODELS, ICLR 2021 [[PDF](https://arxiv.org/pdf/2010.02502)]
+
+* Denoising Diffusion Probabilistic Models, NeurIPS 2020 [[PDF](https://arxiv.org/pdf/2006.11239)]
+
+* Generative Modeling by Estimating Gradients of the Data Distribution, NeurIPS 2019 [[PDF](https://arxiv.org/pdf/1907.05600)]
+
+* Deep Unsupervised Learning using Nonequilibrium Thermodynamics, ICML 2015 [[PDF](https://arxiv.org/pdf/1503.03585)]
+
