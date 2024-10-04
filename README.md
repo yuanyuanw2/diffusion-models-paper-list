@@ -1,4 +1,4 @@
-Diffusion Models
+# Diffusion Models
 
 A curated collection of awesome papers on diffusion models.
 
