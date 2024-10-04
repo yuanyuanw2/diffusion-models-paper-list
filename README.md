@@ -33,6 +33,10 @@ A curated collection of awesome papers on diffusion models.
 
 * PROGRESSIVE DISTILLATION FOR FAST SAMPLING OF DIFFUSION MODELS, ICLR 2022 [[PDF](https://arxiv.org/pdf/2202.00512)]
 
+* Elucidating the Design Space of Diffusion-Based Generative Models, NeurIPS 2022 [[PDF](https://arxiv.org/pdf/2206.00364)]
+
+* Improved Denoising Diffusion Probabilistic Models, ICML 2021 [[PDF](https://proceedings.mlr.press/v139/nichol21a/nichol21a.pdf)]
+
 * DENOISING DIFFUSION IMPLICIT MODELS, ICLR 2021 [[PDF](https://arxiv.org/pdf/2010.02502)]
 
 * Denoising Diffusion Probabilistic Models, NeurIPS 2020 [[PDF](https://arxiv.org/pdf/2006.11239)]
