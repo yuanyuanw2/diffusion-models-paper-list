@@ -23,6 +23,8 @@ A curated collection of awesome papers on diffusion models.
 
 * One-step Diffusion with Distribution Matching Distillation, CVPR 2024 [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Yin_One-step_Diffusion_with_Distribution_Matching_Distillation_CVPR_2024_paper.pdf)]
 
+* CONSISTENCY TRAJECTORY MODELS: LEARNING PROBABILITY FLOW ODE TRAJECTORY OF DIFFUSION, ICLR 2024 [[PDF](https://openreview.net/pdf?id=ymjI8feDTD)]
+
 * IMPROVED TECHNIQUES FOR TRAINING CONSISTENCY MODELS, ICLR 2024 [[PDF](https://arxiv.org/pdf/2310.14189)]
 
 * Consistency Models, ICML 2023 [[PDF](https://arxiv.org/pdf/2303.01469)]
