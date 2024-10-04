@@ -17,7 +17,7 @@ A curated collection of awesome papers on diffusion models.
 
 ## Continuous
 
-* 
+* Multistep Distillation of Diffusion Models via Moment Matching, NeurIPS 2024 [[PDF](https://arxiv.org/pdf/2406.04103)]
 
 * Improved Distribution Matching Distillation for Fast Image Synthesis, NeurIPS 2024 [[PDF](https://arxiv.org/pdf/2405.14867)]
 
