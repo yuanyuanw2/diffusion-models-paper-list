@@ -29,6 +29,10 @@ A curated collection of awesome papers on diffusion models.
 
 * IMPROVED TECHNIQUES FOR TRAINING CONSISTENCY MODELS, ICLR 2024 [[PDF](https://arxiv.org/pdf/2310.14189)]
 
+* UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs, CVPR 2024 [[PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_UFOGen_You_Forward_Once_Large_Scale_Text-to-Image_Generation_via_Diffusion_CVPR_2024_paper.pdf)]
+
+* Semi-Implicit Denoising Diffusion Models (SIDDMs), NeurIPS 2023 [[PDF](https://openreview.net/pdf?id=gaktiSjatl)]
+
 * FLOW STRAIGHT AND FAST: LEARNING TO GENERATE AND TRANSFER DATA WITH RECTIFIED FLOW, ICLR 2023 [[PDF](https://openreview.net/pdf/910c5efa5739a5d2bef83d432da87d3096712ebe.pdf)]
 
 * Consistency Models, ICML 2023 [[PDF](https://arxiv.org/pdf/2303.01469)]
@@ -36,6 +40,8 @@ A curated collection of awesome papers on diffusion models.
 * Elucidating the Design Space of Diffusion-Based Generative Models, NeurIPS 2022 [[PDF](https://arxiv.org/pdf/2206.00364)]
 
 * PROGRESSIVE DISTILLATION FOR FAST SAMPLING OF DIFFUSION MODELS, ICLR 2022 [[PDF](https://arxiv.org/pdf/2202.00512)]
+
+* TACKLING THE GENERATIVE LEARNING TRILEMMA WITH DENOISING DIFFUSION GANS, ICLR 2022 [[PDF](https://arxiv.org/pdf/2112.07804)]
 
 * High-Resolution Image Synthesis with Latent Diffusion Models, CVPR 2022 [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)]
   
