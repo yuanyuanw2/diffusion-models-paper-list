@@ -4,23 +4,23 @@ A curated collection of awesome papers on diffusion models.
 
 ## Discrete
 
-* THINK WHILE YOU GENERATE: DISCRETE DIFFUSION WITH PLANNED DENOISING, arxiv 2024 [[PDF]https://arxiv.org/pdf/2410.06264]
+* THINK WHILE YOU GENERATE: DISCRETE DIFFUSION WITH PLANNED DENOISING, arxiv 2024 [[PDF](https://arxiv.org/pdf/2410.06264)]
 
 * Simplified and Generalized Masked Diffusion for Discrete Data, NeurIPS 2024  [[PDF](https://arxiv.org/pdf/2406.04329)]
 
 * Simple and Effective Masked Diffusion Language Models, NeurIPS 2024  [[PDF](https://arxiv.org/pdf/2406.07524)]
 
-* Discrete Flow Matching, arxiv 2024 [[PDF]https://arxiv.org/pdf/2407.15595]
+* Discrete Flow Matching, arxiv 2024 [[PDF](https://arxiv.org/pdf/2407.15595)]
 
 * Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution, ICML 2024 [[PDF](https://arxiv.org/pdf/2310.16834)]
 
-* Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design, ICML 2024 [[PDF]https://arxiv.org/pdf/2402.04997]
+* Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design, ICML 2024 [[PDF](https://arxiv.org/pdf/2402.04997)]
 
-* SCORE-BASED CONTINUOUS-TIME DISCRETE DIFFUSION MODELS, ICLR 2023 [[PDF]https://arxiv.org/pdf/2211.16750]
+* SCORE-BASED CONTINUOUS-TIME DISCRETE DIFFUSION MODELS, ICLR 2023 [[PDF](https://arxiv.org/pdf/2211.16750)]
 
 * Fast Sampling via Discrete Non-Markov Diffusion Models, arxiv 2023 [[PDF](https://arxiv.org/pdf/2312.09193)]
 
-* A Continuous Time Framework for Discrete Denoising Models, NeurIPS 2022 [[PDF]https://proceedings.neurips.cc/paper_files/paper/2022/file/b5b528767aa35f5b1a60fe0aaeca0563-Paper-Conference.pdf]
+* A Continuous Time Framework for Discrete Denoising Models, NeurIPS 2022 [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/b5b528767aa35f5b1a60fe0aaeca0563-Paper-Conference.pdf)]
 
 * Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions, NeurIPS 2021  [[PDF](https://arxiv.org/pdf/2102.05379)]
 
